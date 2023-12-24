@@ -17,7 +17,7 @@ Getting Started
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/ieee-branch-icon-stem-website.git
+git clone https://github.com/Esakkiraja2004/Iconstem-Front-end
 Open the project in your preferred code editor.
 
 Explore the project structure and familiarize yourself with the organization of files and folders.
